@@ -45,7 +45,7 @@ const tushar = {
 <a href="https://twitter.com/techtusharojha" target="_blank">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="tusharojha2001@gmail.com" target="_blank">
+<a href="mailto:tusharojha2001@gmail.com" target="_blank">
   <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCFEI7zN-vQ9ct8IUAj4l8rw" target="_blank">
