@@ -1,21 +1,53 @@
-### Hi there 👋
+## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">, I'm Tushar Ojha
+
 
 <img src="https://komarev.com/ghpvc/?username=tusharojha" alt="tusharojha" />
 
-<!--
-**tusharojha/tusharojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharojha&layout=compact&hide=Ruby" /></th>
+    <th><img align='right' src="https://github.com/tusharojha/tusharojha/blob/master/work.gif?raw=true" height="200" ></th>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### About me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharojha&hide=["issues"]&show_icons=true)
+```javascript
+const tushar = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Dart", "Java", "Kotlin", "Python"],
+    askMeAbout: ["app dev", "tech", "web dev", "spirituality"],
+    technologies: {
+        mobileApp: {
+            android: ["Flutter", "React Native", "Android JAVA/KOTLIN"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["vanila"]
+        },
+        frontEnd: {
+            js: ["React", "JQuery"],
+            css: ["materialize", "bootstrap", "sass"]
+        },
+        devOps: ["AWS", "GCP", "Digital Ocean", "Git & GitHub"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "electron"]
+    },
+    architecture: ["Serverless Architecture", "Hybrid Applications", "Single page applications"],
+    currentFocus: "Flutter & Electron",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+### Contact
+<a href="https://linkedin.com/in/tusharojha2001">
+  <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/tusharojha">
+  <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:tusharojha2001@gmail.com">
+  <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCFEI7zN-vQ9ct8IUAj4l8rw">
+  <img align="left" alt="Tushar's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
