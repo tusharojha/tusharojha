@@ -31,7 +31,7 @@ const tushar = {
         },
         devOps: ["AWS", "GCP", "Digital Ocean", "Git & GitHub"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "electron"]
+        misc: ["Firebase", "Socket.IO", "Electron"]
     },
     architecture: ["Serverless Architecture", "Hybrid Applications", "Single page applications"],
     currentFocus: "Flutter & Electron",
@@ -39,15 +39,15 @@ const tushar = {
 };
 ```
 ### Contact
-<a href="https://linkedin.com/in/tusharojha2001">
+<a href="https://linkedin.com/in/tusharojha2001" target="_blank">
   <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/tusharojha">
+<a href="https://twitter.com/techtusharojha" target="_blank">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:tusharojha2001@gmail.com">
+<a href="tusharojha2001@gmail.com" target="_blank">
   <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCFEI7zN-vQ9ct8IUAj4l8rw">
+<a href="https://www.youtube.com/channel/UCFEI7zN-vQ9ct8IUAj4l8rw" target="_blank">
   <img align="left" alt="Tushar's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
