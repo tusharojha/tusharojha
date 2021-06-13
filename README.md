@@ -12,32 +12,8 @@
 
 ### About me...  
 
-```javascript
-const tushar = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Dart", "Java", "Kotlin", "Python"],
-    askMeAbout: ["app dev", "tech", "web dev", "spirituality"],
-    technologies: {
-        mobileApp: {
-            android: ["Flutter", "React Native", "Android JAVA/KOTLIN"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            php: ["vanila"]
-        },
-        frontEnd: {
-            js: ["React", "JQuery"],
-            css: ["materialize", "bootstrap", "sass"]
-        },
-        devOps: ["AWS", "GCP", "Digital Ocean", "Git & GitHub"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Electron"]
-    },
-    architecture: ["Serverless Architecture", "Hybrid Applications", "Single page applications"],
-    currentFocus: "Flutter & Electron",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+### www.tusharojha.com
+
 ### Contact
 <a href="https://linkedin.com/in/tusharojha2001" target="_blank">
   <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
