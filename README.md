@@ -14,7 +14,7 @@ Speaker at **React India 2022** on **Web3 for Frontend Developers**
 An opensource & tech enthusiast with a good history of working with Startups and MNCs. Worked on technologies like **Flutter**, **React** / **React Native**, **Android (Java/Kotlin)** & **MERN** stack. Love learning new technologies and giving back to the community through YouTube, Webinars, Opensource & Masterclasses.
 
 <img align='right' src="https://github.com/tusharojha/tusharojha/blob/master/work.gif?raw=true" width="230" >
-<p><em>Student at <a href="http://www.msit.in">MSIT, New Delhi </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://www.giftamatic.org">GiftaMatic</a> & <a href="https://www.educate.tusharojha.com">Educate App</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="http://www.msit.in">MSIT, New Delhi </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://devfolio.co/projects/sadaiv-ci-4cf9">Sadaiv CI</a> & <a href="https://www.educate.tusharojha.com">Educate App</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 Learning **Cryptography** and **Blockchain Development** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </em>
