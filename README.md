@@ -33,7 +33,9 @@ Learning **Cryptography** and **Blockchain Development** <img src="https://media
 
 ## Live Demos & Pitches
 ETH India (Live from stage): https://www.youtube.com/watch?v=cx3ZCdmf5Xs
+
 Polygon x BuidlersTribe Demo Day: https://www.youtube.com/watch?v=NKxPWRElges
+
 React India Web3 Panel Discussion: https://www.youtube.com/watch?v=VJUD3yrH-8A
 
 ## Projects & Websites
