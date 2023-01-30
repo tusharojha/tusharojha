@@ -2,7 +2,7 @@
 
 Sofware Developer since age 12 👨🏼‍💻
 
-Building [Sadaiv CI](https://devfolio.co/projects/sadaiv-ci-4cf9) on Polygon Pos & ID.
+Building [Sadaiv CI](https://sadaiv.io) on Polygon Pos & ID.
 
 Won **ETH India** 2022 🏅
 
