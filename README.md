@@ -8,6 +8,8 @@ Won **ETH India** 2022 🏅
 
 Speaker at **React India 2022** on **Web3 for Frontend Developers**
 
+Member of @developer_dao
+
 
 ### About Me
 
